@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ai and machine learning and new emerging technologies
-- 📫 How to reach me ... fb.me/chetangrd t.me/chetangrd
+- 📫 How to reach me ... <a href="fb.me/chetangrd">Facebook</a> <a href="t.me/chetangrd">telegram</a>
 
 <!---
 Chetangrd/Chetangrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
